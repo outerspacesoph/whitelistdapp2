@@ -1,0 +1,19 @@
+{
+  "name": "hardhat-tutorial",
+  "version": "1.0.0",
+  "description": "I am launching a test NFT collection named Crypto Devs. This will be a web3 dApp that gives my early supporters access to a whitelist for the collection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.11.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
